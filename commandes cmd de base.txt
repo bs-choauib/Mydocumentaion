@@ -1,0 +1,18 @@
+1.cipher /e F:/folder:pour incripter tout les fichiers crée dans ce dossier
+cipher /e /s:F:/folder: incripter un dossier déja contien des fichier
+2.ipconfig 
+3.ipconfig /all 
+4.ipconfig /flushdns
+5.ping 4:49 tracert 
+6.tracert
+7.fc (file compare)
+8.sfc 
+9.sfc /scannow
+10.DISM /Online /Cleanup-Image /RestoreHealth
+11.chkdsk (check disk)
+12.tasklist 
+13.taskkill /f /t /
+14.powercfg 
+15.powercfg /energy 
+16.powercfg /batteryreport
+17.netsh wlan show wlanreport
